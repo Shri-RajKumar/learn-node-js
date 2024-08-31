@@ -1,4 +1,3 @@
-const { log } = require('console')
 const os = require('os')
 
 console.log(os.networkInterfaces());

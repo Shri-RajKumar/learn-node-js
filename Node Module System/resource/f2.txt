@@ -1,2 +1,0 @@
-file system f2.txt file content.
-file aapend : file system f2.txt file content.

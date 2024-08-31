@@ -1,6 +1,4 @@
-file system : 
-
-read 
-write
-create
-append
+file system f1.txt file content.
+ file aapend : file system f1.txt file content.
+ file aapend : file system f1.txt file content.
+ file aapend : file system f1.txt file content.

@@ -1,4 +1,4 @@
-// file system
+// file system  with file
 
 const fs = require('fs')
 
@@ -17,5 +17,8 @@ console.log("created file f1 has now append some data : " + appendf1file);
 
 if(fs.unlinkSync("\\resource\\f1.txt"))
     console.log("f2.txt file deleted");
+
+
+// file system  with Directory
 
 
